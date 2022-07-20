@@ -12,4 +12,3 @@ Projeto referente ao curso "Manipulando o DOM" que ministrei pela [Digital Innov
 
 ## Exemplo
 
-![](C:\Users\Ygor\OneDrive\Documentos\meusProjetos\Dark-Mode\Dark-Mode-exemplo.gif)
