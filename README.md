@@ -12,3 +12,4 @@ Projeto referente ao curso "Manipulando o DOM" que ministrei pela [Digital Innov
 
 ## Exemplo
 
+![Dark-Mode-exemplo](https://user-images.githubusercontent.com/107101341/179913470-c4ac7484-5877-4fa6-b19a-c9bde4b2aa52.gif)
