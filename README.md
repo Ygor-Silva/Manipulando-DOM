@@ -12,4 +12,4 @@ Projeto referente ao curso "Manipulando o DOM" que ministrei pela [Digital Innov
 
 ## Exemplo
 
-![Exercício Dark Mode e Light Mode](../Dark-Mode/Dark-Mode-exemplo.gif)
+![](C:\Users\Ygor\OneDrive\Documentos\meusProjetos\Dark-Mode\Dark-Mode-exemplo.gif)
